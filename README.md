@@ -1,2 +1,2 @@
-# belajar_matplotlib2
+# belajar_matplotlib
 Place to store matplotlib exercises
